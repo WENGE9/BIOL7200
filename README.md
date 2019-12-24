@@ -7,3 +7,4 @@ Included some assignments of this course.
 5. Identify EMBL, FASTQ, GenBank and MEGA then convert them into fasta file.
 6. Calculate intervals and count the overlap intervals.
 7. Find and output the overlap interval.
+Each directory includes description of assignment, input files and solution code.
